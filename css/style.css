@@ -9,6 +9,41 @@ body{
     margin:0;
 }
 
-t.text-1 {
-    color: aliceblue;
+/* Text Shadow */
+h1 {
+    color: white;
+  text-shadow: 6px 7px 4px #000000;
+  }
+
+p {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
 }
+
+h4 {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+h3 {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+li {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+span {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+a {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+
+/* END Text Shadow */
