@@ -45,5 +45,12 @@ a {
   text-shadow: 5px 5px 4px #000000;
 }
 
-
 /* END Text Shadow */
+
+/* img shadow */
+
+img {
+  box-shadow: 10px 10px 20px #000000;
+}
+
+/* END img shadow */
